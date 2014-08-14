@@ -7,6 +7,21 @@ Giving points for creating the repository correctly but in the future if program
 
 -5pts uploading executables in your repo
 
--80 again for not compiling on late submission
+-25 pts"
 
+	number of syscalls... 6
+	number of perror..... 1
+	grade modifier....... -25
+
++20 pts extra credit
+
+NOTE: was generous with test script. Next time won't be as generous. Please be more thorough.
+
+-10 pts not all programs are able to execute. Gives execv failed": No such file or directory. 
+
+-20 pts not able to test '&'
+
+New Grade 15/100
+
+New grade is lower than old grade so, sticking with the higher of the 2
 
