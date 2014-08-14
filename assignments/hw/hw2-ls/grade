@@ -1,2 +1,14 @@
-/ 100
+50 / 100
+
+
+Note: Still have executables in your repo. Points will be taken off if they are still there
+
+-35 pts:
+	number of syscalls... 11
+	number of perror..... 4
+	grade modifier....... -35
+
+-15 pts -R does recurse properly
+
+
 
