@@ -1,4 +1,4 @@
-20 / 100
+25 / 100
 
 Giving points for creating the repository correctly but in the future if program does not compile a zero will be given. 
 
@@ -7,11 +7,12 @@ Giving points for creating the repository correctly but in the future if program
 
 -5pts uploading executables in your repo
 
--25 pts"
+-20 pts"
 
-	number of syscalls... 6
-	number of perror..... 1
-	grade modifier....... -25
+	number of syscalls... 5
+  	number of perror..... 1
+  	grade modifier....... -20
+
 
 +20 pts extra credit
 
