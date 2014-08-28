@@ -1,7 +1,6 @@
 0 / 100
 
 -25 pts < does not work
--25 pts > does not work
--25 pts >> does not work
+-25 pts > and  >> does not work
 -50 pts |  does not work
 
